@@ -1,14 +1,17 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import portlogo from "./portlogo.png";
+import navlogo from "./navlogo.png";
 
 export const Navbar = () => {
   return (
     <nav class="navbar navbar-expand-lg navbar-dark shadow-5-strong">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">
-          Brand
-        </a>
+        <img
+          src="navlogo.png"
+          alt="Girl in a jacket"
+          width="200"
+          height="100"
+        ></img>
 
         <button
           class="navbar-toggler"
