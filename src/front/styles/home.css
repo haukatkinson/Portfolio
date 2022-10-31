@@ -1,6 +1,5 @@
-.navbar {
-  background: #0e2234;
-}
-.nav-items {
-  color: white;
+.logo {
+  float: left;
+  width: 5%;
+  height: 10%;
 }
