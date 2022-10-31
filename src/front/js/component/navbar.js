@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import portlogo from "./portlogo.png";
 
 export const Navbar = () => {
   return (
@@ -31,6 +32,16 @@ export const Navbar = () => {
             <li class="nav-item">
               <a class="nav-link" href="#">
                 Link
+              </a>
+            </li>
+            <li class="nav-item">
+              <a
+                class="nav-link disabled"
+                href="#"
+                tabindex="-1"
+                aria-disabled="true"
+              >
+                Disabled
               </a>
             </li>
           </ul>
