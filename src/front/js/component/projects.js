@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import logo2 from "./portlogo.png";
 
 const Projects = () => {
   return (
