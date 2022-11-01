@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import { Link } from "react-router-dom";
 import banner from "./banner.jpg";
 import portlogo from "./portlogo.png";
 
@@ -14,12 +15,28 @@ const Jumbotron = () => {
           width: "100%",
         }}
       >
-        <img
-          src="portlogo.png"
-          alt="Girl in a jacket"
-          width="600"
-          height="500"
-        ></img>
+        <div className="jumboInfo">
+          <div className="header">Full Stack</div>
+          <div className="header2">Developer</div>
+        </div>
+        <div className="socials">
+          <div className="follow">Follow Me</div>
+          <div>
+            <span class="arrow-right"></span>
+          </div>
+          <a
+            class="nav-link text-light"
+            href="https://www.linkedin.com/in/haukatkinson/"
+          >
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a class="nav-link text-light" href="https://github.com/haukatkinson">
+            <i class="fab fa-github"></i>
+          </a>
+          <a class="nav-link text-light" href="https://twitter.com/timmy2rp">
+            <i class="fab fa-twitter"></i>
+          </a>
+        </div>
       </div>
     </div>
   );
