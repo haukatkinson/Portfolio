@@ -81,13 +81,15 @@ const Projects = () => {
                     style={{ width: "100%" }}
                   />
                   <div class="card-body">
-                    <h4 class="card-title">Twitter Clone</h4>
+                    <h4 class="card-title">Crypto Tracker</h4>
                     <p class="card-text">
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry.
+                      Track top daily and over all crypto data
                     </p>
                     <div class="text-center">
-                      <a href="#" class="button-85">
+                      <a
+                        href="https://3000-haukatkinson-crypto-jlyv26ljsh0.ws-us74.gitpod.io/"
+                        class="button-85"
+                      >
                         Link
                       </a>
                     </div>
