@@ -17,3 +17,23 @@ class User(db.Model):
             "email": self.email,
             # do not serialize the password, its a security breach
         }
+
+class Register(db.Model):
+    __tablename__ = "register"
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(256), nullable=False)
+    email = db.Column(db.String(), unique=False, nullable=False)
+    subject = db.Column(db.String(), unique=False, nullable=False)
+    details = db.Column(db.String(), unique=False, nullable=False)
+
+    def __repr__(self):
+        return f'<Register {self.id}>'
+
+    def serialize(self):
+        return {
+            "id": self.id,
+            "name": self.name,
+            "email": self.email,
+            "subject": self.subject,
+            "details": self.details,
+        }

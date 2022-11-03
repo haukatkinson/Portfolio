@@ -94,7 +94,7 @@
 .aboutBackground {
   background-color: black;
   width: 100%;
-  height: 600px;
+  height: 850px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -147,4 +147,115 @@
 
 .div1 {
   grid-area: 1 / 3 / 2 / 4;
+}
+
+.projectTitle {
+  color: white;
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+  font-family: "Goldman";
+  text-shadow: 1px 1px #fca1e7;
+}
+
+.Background {
+  background-color: black;
+  width: 100%;
+  height: 600px;
+}
+.BackgroundContacts {
+  background-color: black;
+  width: 100%;
+  height: 800px;
+  margin-bottom: 50px;
+}
+.skills {
+  padding: 5rem 0 2.5rem 0;
+}
+.skills > .text {
+  width: 70%;
+  margin: 1.5rem auto;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+.skills .row {
+  margin: 1rem 0;
+}
+.skills .item {
+  padding: 0.5rem 0;
+  margin: 0.3rem 0;
+}
+.skills .item-text {
+  display: flex;
+  justify-content: flex-start;
+  font-weight: 600;
+  font-size: 1.3rem;
+  position: relative;
+  color: #a5fdf9;
+}
+.skills .item-text span:last-child {
+  position: absolute;
+}
+.skills .item-text .w-90 {
+  margin-left: 85%;
+}
+.skills .item-text .w-75 {
+  margin-left: 70%;
+}
+.skills .item-text .w-85 {
+  margin-left: 80%;
+}
+.skills .item-text .w-80 {
+  margin-left: 75%;
+}
+.skills .item-text .w-60 {
+  margin-left: 55%;
+}
+.skills .item-text .w-68 {
+  margin-left: 63%;
+}
+.progress {
+  margin: 0.8rem 0;
+  border-radius: 10px;
+  height: 16px;
+  width: 100%;
+  background-color: gray;
+  overflow: hidden;
+}
+.progress-bar {
+  background: #fca1e7;
+  height: 100%;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.progress-bar.w-90 {
+  width: 90%;
+}
+.progress-bar.w-75 {
+  width: 75%;
+}
+.progress-bar.w-85 {
+  width: 85%;
+}
+.progress-bar.w-80 {
+  width: 80%;
+}
+.progress-bar.w-60 {
+  width: 60%;
+}
+.progress-bar.w-68 {
+  width: 68%;
+}
+.skillsback {
+  background: black;
+}
+input {
+  padding: 15px;
+  width: 500px;
+  height: 50px;
+}
+textarea {
+  height: 200px;
+  width: 500px;
 }

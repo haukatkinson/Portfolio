@@ -9,22 +9,22 @@ export const Navbar = () => {
       <div class="nav-items">
         <ul class="navbar-nav">
           <li class="nav-item active">
-            <a class="nav-link text-light" href="#">
+            <a class="nav-link text-light" href="#About">
               About Me <span class="sr-only">(current)</span>
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-light" href="#">
+            <a class="nav-link text-light" href="#projects">
               Projects
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-light" href="#">
+            <a class="nav-link text-light" href="#skills">
               Skills
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link text-light" href="#">
+            <a class="nav-link text-light" href="#contact">
               Contact Me
             </a>
           </li>
