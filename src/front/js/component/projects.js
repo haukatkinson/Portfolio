@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import logo2 from "./slide.jpg";
+import relocate from "./relocate.png";
+import rodeo from "./rodeo.png";
 
 const Projects = () => {
   return (
@@ -21,7 +23,7 @@ const Projects = () => {
                 <div class="card">
                   <img
                     class="card-img-top"
-                    src="images/portfolioImage1.jpg"
+                    src="relocate.png"
                     alt="Card image"
                     style={{ width: "100%" }}
                   />
@@ -44,7 +46,7 @@ const Projects = () => {
                 <div class="card portfolioContent">
                   <img
                     class="card-img-top"
-                    src="images/portfolioImage1.jpg"
+                    src="rodeo.png"
                     alt="Card image"
                     style={{ width: "100%" }}
                   />
