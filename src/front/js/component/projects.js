@@ -83,7 +83,7 @@ const Projects = () => {
                   <div class="card-body">
                     <h4 class="card-title">Crypto Tracker</h4>
                     <p class="card-text">
-                      Track top daily and over all crypto data
+                      Track top daily and over all crypto data.
                     </p>
                     <div class="text-center">
                       <a
