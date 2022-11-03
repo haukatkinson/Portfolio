@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import logo2 from "./slide.jpg";
 import relocate from "./relocate.png";
 import rodeo0 from "./rodeoo.png";
+import crypto from "./crypto.png";
 
 const Projects = () => {
   return (
@@ -38,7 +39,10 @@ const Projects = () => {
                       </strong>
                     </p>
                     <div class="text-center">
-                      <a href="#" class="button-85">
+                      <a
+                        href="https://3000-chiznera-relocationstat-hoxnnpqgpty.ws-us73.gitpod.io/"
+                        class="button-85"
+                      >
                         Link
                       </a>
                     </div>
@@ -64,7 +68,10 @@ const Projects = () => {
                       </strong>
                     </p>
                     <div class="text-center">
-                      <a href="#" class="button-85">
+                      <a
+                        href="https://3000-haukatkinson-rodeo-8457oy46fn4.ws-us74.gitpod.io/"
+                        class="button-85"
+                      >
                         Link
                       </a>
                     </div>
@@ -76,14 +83,19 @@ const Projects = () => {
                 <div class="card portfolioContent">
                   <img
                     class="card-img-top"
-                    src="images/portfolioImage1.jpg"
+                    src="crypto.png"
                     alt="Card image"
                     style={{ width: "100%" }}
                   />
                   <div class="card-body">
                     <h4 class="card-title">Crypto Tracker</h4>
                     <p class="card-text">
-                      Track top daily and over all crypto data.
+                      Helps investors by listing all of top daily and over all
+                      crypto data, so you can get a live update on the latest
+                      top cryptos.{" "}
+                      <strong className="cardStrong">
+                        HTML,CSS,Javascript,React,Python,Flask,API
+                      </strong>
                     </p>
                     <div class="text-center">
                       <a
