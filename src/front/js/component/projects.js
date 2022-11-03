@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import logo2 from "./slide.jpg";
 import relocate from "./relocate.png";
-import rodeo from "./rodeo.png";
+import rodeo0 from "./rodeoo.png";
 
 const Projects = () => {
   return (
@@ -28,13 +28,17 @@ const Projects = () => {
                     style={{ width: "100%" }}
                   />
                   <div class="card-body">
-                    <h4 class="card-title">YouTube Clone</h4>
+                    <h4 class="card-title">Relocation Station</h4>
                     <p class="card-text">
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry.
+                      Website that compiles state and city data to assist users
+                      with finding the ideal location to move to based on the
+                      user's preferences.{" "}
+                      <strong className="cardStrong">
+                        HTML,CSS,Javascript,React,Python,Flask
+                      </strong>
                     </p>
                     <div class="text-center">
-                      <a href="#" class="btn btn-success">
+                      <a href="#" class="button-85">
                         Link
                       </a>
                     </div>
@@ -46,18 +50,21 @@ const Projects = () => {
                 <div class="card portfolioContent">
                   <img
                     class="card-img-top"
-                    src="rodeo.png"
+                    src="rodeoo.png"
                     alt="Card image"
                     style={{ width: "100%" }}
                   />
                   <div class="card-body">
-                    <h4 class="card-title">Twitter Clone</h4>
+                    <h4 class="card-title">38 Arena</h4>
                     <p class="card-text">
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry.
+                      Self generates spread sheets that users/riders register to
+                      and compiles data on there runs and provides results.{" "}
+                      <strong className="cardStrong">
+                        HTML,CSS,Javascript,React,Python,Flask
+                      </strong>
                     </p>
                     <div class="text-center">
-                      <a href="#" class="btn btn-success">
+                      <a href="#" class="button-85">
                         Link
                       </a>
                     </div>
@@ -80,7 +87,7 @@ const Projects = () => {
                       typesetting industry.
                     </p>
                     <div class="text-center">
-                      <a href="#" class="btn btn-success">
+                      <a href="#" class="button-85">
                         Link
                       </a>
                     </div>

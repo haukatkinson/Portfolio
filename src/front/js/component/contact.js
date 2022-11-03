@@ -104,6 +104,8 @@ const Contacts = () => {
                 >
                   Contact Me
                 </button>
+                <h2>Email: haukatkinson1@gmail.com</h2>
+                <h2>Phone: 772-647-0460</h2>
                 <div id="myModal" class="modal">
                   <div class="modal-content">
                     <span class="close">&times;</span>
