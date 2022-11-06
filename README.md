@@ -11,7 +11,7 @@ This portfolio is made with React and lots of love. Although it is my personal p
 2. Run `npm run start`.
 3. Visit [localhost:3000](http://localhost:3000).
 
-##Built Using
+## Built Using
 
 ![icons8-html-5-100](https://user-images.githubusercontent.com/102693010/200149430-40e18800-41c5-43f0-89dc-819c744bfcb6.png)
 ![icons8-css3-100](https://user-images.githubusercontent.com/102693010/200149431-f272473a-b6a9-4db6-8492-36a4015fef07.png)
