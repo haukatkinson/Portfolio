@@ -1,7 +1,10 @@
+![navlogo2](https://user-images.githubusercontent.com/102693010/200150727-b46069a3-4e04-4791-b7f0-e82fdd588602.png)
+
+
 
 https://user-images.githubusercontent.com/102693010/200148733-0310fff2-c1fa-404e-a5bf-4177f8e216b8.mp4
 
-# personal-portfolio
+# Personal-Portfolio
 
 This portfolio is made with React and lots of love. Although it is my personal portfolio, feel free to fork and have fun with it.
 
@@ -28,7 +31,7 @@ https://user-images.githubusercontent.com/102693010/200149527-933f4ee9-bc35-437a
 
 Relocation Station
 Website that compiles state and city data to assist users with finding the ideal location to move to based on the user's preferences
-HTML,CSS,Bootstrap,Javascript,React,Python,Flask
+HTML,CSS,Bootstrap,Javascript,React,Python,Flask,API
 
 
 https://user-images.githubusercontent.com/102693010/200149548-a3168d94-0d96-4241-8a67-5553d1e8f6a6.mp4
@@ -43,7 +46,8 @@ https://user-images.githubusercontent.com/102693010/200150565-2718e514-9250-42a0
 
 
 Crypto Select
-HTML,CSS,Bootstrap,Javascript,React,Python,Flask
+Simple crypto website to get live data of the top crypto data using API
+HTML,CSS,Bootstrap,Javascript,React,Python,Flask,API
 
 ## Contacts
 
