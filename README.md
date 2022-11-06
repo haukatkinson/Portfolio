@@ -24,18 +24,24 @@ This portfolio is made with React and lots of love. Although it is my personal p
 ## Projects
 
 https://user-images.githubusercontent.com/102693010/200149527-933f4ee9-bc35-437a-a534-85d549accc60.mp4
+
+
 Relocation Station
 Website that compiles state and city data to assist users with finding the ideal location to move to based on the user's preferences
 HTML,CSS,Bootstrap,Javascript,React,Python,Flask
 
 
 https://user-images.githubusercontent.com/102693010/200149548-a3168d94-0d96-4241-8a67-5553d1e8f6a6.mp4
+
+
 38 Area
 Self generates spread sheets that users/riders register to and compiles data on there runs and provides results.
 HTML,CSS,Bootstrap,Javascript,React,Python,Flask
 
 
 https://user-images.githubusercontent.com/102693010/200150565-2718e514-9250-42a0-a955-2e8c701ea105.mp4
+
+
 Crypto Select
 HTML,CSS,Bootstrap,Javascript,React,Python,Flask
 
